@@ -1,1 +1,1 @@
-# codesys_course
+# codesys-course
